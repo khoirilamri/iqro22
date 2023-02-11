@@ -1,0 +1,629 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "ADMOB",
+         "select_backup_ads": "APPLOVIN-D",
+         "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+         "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+         "backup_ads_banner": "db4d5e8718b97d78",
+         "backup_ads_intertitial": "518cd97722c60b52",
+         "open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+         "open_ads_alien": "1",
+         "switch_open_ads": "1",
+         "interval_intertitial": 5,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "RANDOM_LIST": "2",
+      "LIS_CATEGORY_HOME": 8,
+      "LIS_RECENT_HOME": 10
+   },
+   "More": [
+      {
+         "title": "Fake Chat for WA",
+         "image": "https://play-lh.googleusercontent.com/mFZ5YRnlq0YsPyIEphae-SPiQcSli2kiJmTeqd0zXif1l0GDTyOwC0d32tJAarfEhCLS=w416-h235",
+         "link": "https://play.google.com/store/apps/details?id=com.fakeaccounttwitter.faketweet"
+      },
+      {
+         "title": "Astronomi Wallpaper",
+         "image": "https://play-lh.googleusercontent.com/1vfgl6JbF0GnvongLJkj4HFo_Lxn6-YCddksiJp_StjNHBYK0cgj6YR7VyTc8d_Z_XU=w416-h235",
+         "link": "https://play.google.com/store/apps/details?id=com.randomimage.astronomypicture"
+      },
+      {
+         "title": "Alien Skin Minecraft (MOD)",
+         "image": "file:///android_asset/image/insta.webp",
+         "link": "https://play.google.com/store/apps/details?id=com.aliendroid.fakeinstagram"
+      }
+   ],
+   "Categories": [
+      {
+         "name_category": "Bahasa",
+         "image": "file:///android_asset/image/languages.png"
+      },
+      {
+         "name_category": "Matematika",
+         "image": "https://aliendro.id/uploads/demo/pdf/maths.png"
+      },
+      {
+         "name_category": "Biologi",
+         "image": "https://aliendro.id/uploads/demo/pdf/dna.png"
+      },
+      {
+         "name_category": "Kimia",
+         "image": "file:///android_asset/image/chemistry.png"
+      },
+      {
+         "name_category": "Fisika",
+         "image": "file:///android_asset/image/physics.png"
+      },
+      {
+         "name_category": "Sejarah",
+         "image": "file:///android_asset/image/clock.png"
+      },
+      {
+         "name_category": "Ekonomi",
+         "image": "file:///android_asset/image/analytics.png"
+      },
+      {
+         "name_category": "Geologi",
+         "image": "file:///android_asset/image/earth.png"
+      }
+   ],
+   "Data": [
+      {
+         "id": 1,
+         "name_category": "Bahasa",
+         "author": "Aliendroid",
+         "title": "Bahasa Indonesia Kelas XII",
+         "image": "file:///android_asset/image/1.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 2,
+         "name_category": "Matematika",
+         "author": "Mr. Kim",
+         "title": "Matematika Kelas XII",
+         "image": "file:///android_asset/image/2.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh2.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 3,
+         "name_category": "Sejarah",
+         "author": "Rysa Sahrial",
+         "title": "Sejarah Indonesia Kelas X",
+         "image": "file:///android_asset/image/3.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh3.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 4,
+         "name_category": "Biologi",
+         "author": "Aliendroid",
+         "title": "Biologi Kelas X",
+         "image": "file:///android_asset/image/4.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh4.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 5,
+         "name_category": "Fisika",
+         "author": "Aliendroid",
+         "title": "Fisika Kelas XI",
+         "image": "https://aliendro.id/uploads/demo/pdf/5.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh5.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 6,
+         "name_category": "Kimia",
+         "author": "Aliendroid",
+         "title": "Kimia Kelas XII",
+         "image": "https://aliendro.id/uploads/demo/pdf/6.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh6.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 7,
+         "name_category": "Iqro",
+         "author": "Amri",
+         "title": "Iqro",
+         "image": "https://aliendro.id/uploads/demo/pdf/7.png",
+         "link": "{
+   "Ads": [
+      {
+         "select_main_ads": "ADMOB",
+         "select_backup_ads": "APPLOVIN-D",
+         "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+         "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+         "backup_ads_banner": "db4d5e8718b97d78",
+         "backup_ads_intertitial": "518cd97722c60b52",
+         "open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+         "open_ads_alien": "1",
+         "switch_open_ads": "1",
+         "interval_intertitial": 5,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "RANDOM_LIST": "2",
+      "LIS_CATEGORY_HOME": 8,
+      "LIS_RECENT_HOME": 10
+   },
+   "More": [
+      {
+         "title": "Fake Chat for WA",
+         "image": "https://play-lh.googleusercontent.com/mFZ5YRnlq0YsPyIEphae-SPiQcSli2kiJmTeqd0zXif1l0GDTyOwC0d32tJAarfEhCLS=w416-h235",
+         "link": "https://play.google.com/store/apps/details?id=com.fakeaccounttwitter.faketweet"
+      },
+      {
+         "title": "Astronomi Wallpaper",
+         "image": "https://play-lh.googleusercontent.com/1vfgl6JbF0GnvongLJkj4HFo_Lxn6-YCddksiJp_StjNHBYK0cgj6YR7VyTc8d_Z_XU=w416-h235",
+         "link": "https://play.google.com/store/apps/details?id=com.randomimage.astronomypicture"
+      },
+      {
+         "title": "Alien Skin Minecraft (MOD)",
+         "image": "file:///android_asset/image/insta.webp",
+         "link": "https://play.google.com/store/apps/details?id=com.aliendroid.fakeinstagram"
+      }
+   ],
+   "Categories": [
+      {
+         "name_category": "Bahasa",
+         "image": "file:///android_asset/image/languages.png"
+      },
+      {
+         "name_category": "Matematika",
+         "image": "https://aliendro.id/uploads/demo/pdf/maths.png"
+      },
+      {
+         "name_category": "Biologi",
+         "image": "https://aliendro.id/uploads/demo/pdf/dna.png"
+      },
+      {
+         "name_category": "Kimia",
+         "image": "file:///android_asset/image/chemistry.png"
+      },
+      {
+         "name_category": "Fisika",
+         "image": "file:///android_asset/image/physics.png"
+      },
+      {
+         "name_category": "Sejarah",
+         "image": "file:///android_asset/image/clock.png"
+      },
+      {
+         "name_category": "Ekonomi",
+         "image": "file:///android_asset/image/analytics.png"
+      },
+      {
+         "name_category": "Geologi",
+         "image": "file:///android_asset/image/earth.png"
+      }
+   ],
+   "Data": [
+      {
+         "id": 1,
+         "name_category": "Bahasa",
+         "author": "Aliendroid",
+         "title": "Bahasa Indonesia Kelas XII",
+         "image": "file:///android_asset/image/1.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 2,
+         "name_category": "Matematika",
+         "author": "Mr. Kim",
+         "title": "Matematika Kelas XII",
+         "image": "file:///android_asset/image/2.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh2.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 3,
+         "name_category": "Sejarah",
+         "author": "Rysa Sahrial",
+         "title": "Sejarah Indonesia Kelas X",
+         "image": "file:///android_asset/image/3.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh3.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 4,
+         "name_category": "Biologi",
+         "author": "Aliendroid",
+         "title": "Biologi Kelas X",
+         "image": "file:///android_asset/image/4.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh4.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 5,
+         "name_category": "Fisika",
+         "author": "Aliendroid",
+         "title": "Fisika Kelas XI",
+         "image": "https://aliendro.id/uploads/demo/pdf/5.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh5.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 6,
+         "name_category": "Kimia",
+         "author": "Aliendroid",
+         "title": "Kimia Kelas XII",
+         "image": "https://aliendro.id/uploads/demo/pdf/6.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh6.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 7,
+         "name_category": "Geografi",
+         "author": "Rysa Sahrial",
+         "title": "Geografi Kelas XII",
+         "image": "https://aliendro.id/uploads/demo/pdf/7.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh7.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 8,
+         "name_category": "Ekonomi",
+         "author": "Mr. Kim",
+         "title": "Ekonomi Kelas XII",
+         "image": "https://aliendro.id/uploads/demo/pdf/8.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh8.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      }
+   ]
+}{
+   "Ads": [
+      {
+         "select_main_ads": "ADMOB",
+         "select_backup_ads": "APPLOVIN-D",
+         "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+         "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+         "backup_ads_banner": "db4d5e8718b97d78",
+         "backup_ads_intertitial": "518cd97722c60b52",
+         "open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+         "open_ads_alien": "1",
+         "switch_open_ads": "1",
+         "interval_intertitial": 5,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "RANDOM_LIST": "2",
+      "LIS_CATEGORY_HOME": 8,
+      "LIS_RECENT_HOME": 10
+   },
+   "More": [
+      {
+         "title": "Fake Chat for WA",
+         "image": "https://play-lh.googleusercontent.com/mFZ5YRnlq0YsPyIEphae-SPiQcSli2kiJmTeqd0zXif1l0GDTyOwC0d32tJAarfEhCLS=w416-h235",
+         "link": "https://play.google.com/store/apps/details?id=com.fakeaccounttwitter.faketweet"
+      },
+      {
+         "title": "Astronomi Wallpaper",
+         "image": "https://play-lh.googleusercontent.com/1vfgl6JbF0GnvongLJkj4HFo_Lxn6-YCddksiJp_StjNHBYK0cgj6YR7VyTc8d_Z_XU=w416-h235",
+         "link": "https://play.google.com/store/apps/details?id=com.randomimage.astronomypicture"
+      },
+      {
+         "title": "Alien Skin Minecraft (MOD)",
+         "image": "file:///android_asset/image/insta.webp",
+         "link": "https://play.google.com/store/apps/details?id=com.aliendroid.fakeinstagram"
+      }
+   ],
+   "Categories": [
+      {
+         "name_category": "Bahasa",
+         "image": "file:///android_asset/image/languages.png"
+      },
+      {
+         "name_category": "Matematika",
+         "image": "https://aliendro.id/uploads/demo/pdf/maths.png"
+      },
+      {
+         "name_category": "Biologi",
+         "image": "https://aliendro.id/uploads/demo/pdf/dna.png"
+      },
+      {
+         "name_category": "Kimia",
+         "image": "file:///android_asset/image/chemistry.png"
+      },
+      {
+         "name_category": "Fisika",
+         "image": "file:///android_asset/image/physics.png"
+      },
+      {
+         "name_category": "Sejarah",
+         "image": "file:///android_asset/image/clock.png"
+      },
+      {
+         "name_category": "Ekonomi",
+         "image": "file:///android_asset/image/analytics.png"
+      },
+      {
+         "name_category": "Geologi",
+         "image": "file:///android_asset/image/earth.png"
+      }
+   ],
+   "Data": [
+      {
+         "id": 1,
+         "name_category": "Bahasa",
+         "author": "Aliendroid",
+         "title": "Bahasa Indonesia Kelas XII",
+         "image": "file:///android_asset/image/1.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 2,
+         "name_category": "Matematika",
+         "author": "Mr. Kim",
+         "title": "Matematika Kelas XII",
+         "image": "file:///android_asset/image/2.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh2.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 3,
+         "name_category": "Sejarah",
+         "author": "Rysa Sahrial",
+         "title": "Sejarah Indonesia Kelas X",
+         "image": "file:///android_asset/image/3.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh3.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 4,
+         "name_category": "Biologi",
+         "author": "Aliendroid",
+         "title": "Biologi Kelas X",
+         "image": "file:///android_asset/image/4.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh4.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 5,
+         "name_category": "Fisika",
+         "author": "Aliendroid",
+         "title": "Fisika Kelas XI",
+         "image": "https://aliendro.id/uploads/demo/pdf/5.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh5.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 6,
+         "name_category": "Kimia",
+         "author": "Aliendroid",
+         "title": "Kimia Kelas XII",
+         "image": "https://aliendro.id/uploads/demo/pdf/6.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh6.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 7,
+         "name_category": "Geografi",
+         "author": "Rysa Sahrial",
+         "title": "Geografi Kelas XII",
+         "image": "https://aliendro.id/uploads/demo/pdf/7.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh7.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 8,
+         "name_category": "Ekonomi",
+         "author": "Mr. Kim",
+         "title": "Ekonomi Kelas XII",
+         "image": "https://aliendro.id/uploads/demo/pdf/8.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh8.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      }
+   ]
+}{
+   "Ads": [
+      {
+         "select_main_ads": "ADMOB",
+         "select_backup_ads": "APPLOVIN-D",
+         "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+         "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+         "backup_ads_banner": "db4d5e8718b97d78",
+         "backup_ads_intertitial": "518cd97722c60b52",
+         "open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+         "open_ads_alien": "1",
+         "switch_open_ads": "1",
+         "interval_intertitial": 5,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "RANDOM_LIST": "2",
+      "LIS_CATEGORY_HOME": 8,
+      "LIS_RECENT_HOME": 10
+   },
+   "More": [
+      {
+         "title": "Fake Chat for WA",
+         "image": "https://play-lh.googleusercontent.com/mFZ5YRnlq0YsPyIEphae-SPiQcSli2kiJmTeqd0zXif1l0GDTyOwC0d32tJAarfEhCLS=w416-h235",
+         "link": "https://play.google.com/store/apps/details?id=com.fakeaccounttwitter.faketweet"
+      },
+      {
+         "title": "Astronomi Wallpaper",
+         "image": "https://play-lh.googleusercontent.com/1vfgl6JbF0GnvongLJkj4HFo_Lxn6-YCddksiJp_StjNHBYK0cgj6YR7VyTc8d_Z_XU=w416-h235",
+         "link": "https://play.google.com/store/apps/details?id=com.randomimage.astronomypicture"
+      },
+      {
+         "title": "Alien Skin Minecraft (MOD)",
+         "image": "file:///android_asset/image/insta.webp",
+         "link": "https://play.google.com/store/apps/details?id=com.aliendroid.fakeinstagram"
+      }
+   ],
+   "Categories": [
+      {
+         "name_category": "Bahasa",
+         "image": "file:///android_asset/image/languages.png"
+      },
+      {
+         "name_category": "Matematika",
+         "image": "https://aliendro.id/uploads/demo/pdf/maths.png"
+      },
+      {
+         "name_category": "Biologi",
+         "image": "https://aliendro.id/uploads/demo/pdf/dna.png"
+      },
+      {
+         "name_category": "Kimia",
+         "image": "file:///android_asset/image/chemistry.png"
+      },
+      {
+         "name_category": "Fisika",
+         "image": "file:///android_asset/image/physics.png"
+      },
+      {
+         "name_category": "Sejarah",
+         "image": "file:///android_asset/image/clock.png"
+      },
+      {
+         "name_category": "Ekonomi",
+         "image": "file:///android_asset/image/analytics.png"
+      },
+      {
+         "name_category": "Geologi",
+         "image": "file:///android_asset/image/earth.png"
+      }
+   ],
+   "Data": [
+      {
+         "id": 1,
+         "name_category": "Bahasa",
+         "author": "Aliendroid",
+         "title": "Bahasa Indonesia Kelas XII",
+         "image": "file:///android_asset/image/1.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 2,
+         "name_category": "Matematika",
+         "author": "Mr. Kim",
+         "title": "Matematika Kelas XII",
+         "image": "file:///android_asset/image/2.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh2.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 3,
+         "name_category": "Sejarah",
+         "author": "Rysa Sahrial",
+         "title": "Sejarah Indonesia Kelas X",
+         "image": "file:///android_asset/image/3.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh3.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 4,
+         "name_category": "Biologi",
+         "author": "Aliendroid",
+         "title": "Biologi Kelas X",
+         "image": "file:///android_asset/image/4.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh4.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 5,
+         "name_category": "Fisika",
+         "author": "Aliendroid",
+         "title": "Fisika Kelas XI",
+         "image": "https://aliendro.id/uploads/demo/pdf/5.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh5.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 6,
+         "name_category": "Kimia",
+         "author": "Aliendroid",
+         "title": "Kimia Kelas XII",
+         "image": "https://aliendro.id/uploads/demo/pdf/6.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh6.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 7,
+         "name_category": "Geografi",
+         "author": "Rysa Sahrial",
+         "title": "Geografi Kelas XII",
+         "image": "https://aliendro.id/uploads/demo/pdf/7.png",
+         "link": "https://ia601609.us.archive.org/20/items/buku-iqro-1-kh.-asad-humam/Buku%20Iqro%27%201%20-%20KH.%20As%27ad%20Humam.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 8,
+         "name_category": "Ekonomi",
+         "author": "Mr. Kim",
+         "title": "Ekonomi Kelas XII",
+         "image": "https://aliendro.id/uploads/demo/pdf/8.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh8.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      }
+   ]
+}",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      },
+      {
+         "id": 8,
+         "name_category": "Ekonomi",
+         "author": "Mr. Kim",
+         "title": "Ekonomi Kelas XII",
+         "image": "https://aliendro.id/uploads/demo/pdf/8.png",
+         "link": "https://aliendro.id/uploads/demo/pdf/contoh8.pdf",
+         "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+      }
+   ]
+}
